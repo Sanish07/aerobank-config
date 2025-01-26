@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Aerobank Accounts REST API Production services"
   contactDetails:
-    name: "Martinez - Product Engineer"
+    name: "Martinez - Production Team"
     email : "martinez@gmail.com"
   onCallSupport:
     - (555) 986-0012
