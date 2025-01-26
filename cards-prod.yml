@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Aerobank Cards REST API Production services"
   contactDetails:
-    name: "Thomas Alvarez - Production Lead"
+    name: "Thomas Alvarez - DevOps Engineer"
     email : "thomas.alvarez19@gmail.com"
   onCallSupport:
     - (555) 890-7123
