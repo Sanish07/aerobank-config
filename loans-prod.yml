@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to Aerobank Loans REST API Production services"
+  message: "Welcome to Aerobank Loans REST API Prod services"
   contactDetails:
     name: "Emanuel Pope - Devops Lead"
-    email : "popeeman.21@gmail.com"
+    email : "popeemanuel.21@gmail.com"
   onCallSupport:
     - (555) 441-9633
     - (555) 419-1261
