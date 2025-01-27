@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Aerobank Accounts REST API Production Webhook services"
+  message: "Welcome to Aerobank Accounts REST API Production services"
   contactDetails:
-    name: "Martinez - Production Lead"
+    name: "Martinez - Production Engineer"
     email : "martinez@gmail.com"
   onCallSupport:
     - (555) 986-0012
