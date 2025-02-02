@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Aerobank Loans REST API services"
+  message: "Welcome to Aerobank Loans local API services"
   contactDetails:
     name: "Sanish - FS Developer"
     email : "sanishnirwan@gmail.com"
