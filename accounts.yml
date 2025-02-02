@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Aerobank Accounts local API services"
+  message: "Welcome to Aerobank Accounts docker API services"
   contactDetails:
     name: "Sanish - Full Stack Developer"
     email : "{cipher}ca2e94551d940d1cf57b145166bc011a7cbbd1e5e91aaad799972a4ba0c96971e31c65ca067a732bb4b5001a89758423"
