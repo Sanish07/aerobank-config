@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Aerobank Cards REST API Production services"
+  message: "Welcome to Aerobank Cards REST API Production(Docker) services"
   contactDetails:
     name: "Thomas Alvarez - DevOps Engineer"
     email : "thomas.alvarez19@gmail.com"
